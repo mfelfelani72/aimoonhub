@@ -8,8 +8,8 @@ services:
     restart: always
     tty: true
     ports:
-      - "80:80"
-      - "443:443"
+      - "80:20080"
+      - "443:20443"
     volumes:
       - "./:/var/www"
       - "./docker-files/nginx/conf.d/:/etc/nginx/conf.d/"
