@@ -8,7 +8,7 @@ services:
     restart: always
     tty: true
     ports:
-      - "80:20080"
+      - "3000:20300"
       - "443:20443"
     volumes:
       - "./:/var/www"
