@@ -9,6 +9,6 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      - "./:/var/www/"
+      - "./:/var/www"
       - "./docker-files/nginx/conf.d/:/etc/nginx/conf.d/"
  
