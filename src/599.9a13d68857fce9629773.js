@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuiler=self.webpackChunkbuiler||[]).push([[599],{20599:(s,e,p)=>{p.d(e,{A:()=>u});const u=p.p+"assets/images/png/cat.png"}}]);

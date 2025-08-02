@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbuiler=self.webpackChunkbuiler||[]).push([[8675],{18675:(t,e,r)=>{r.d(e,{A:()=>u});const u=function(){return"rtl"==document.getElementById("root-html").getAttribute("dir")?"right":"left"}}}]);
