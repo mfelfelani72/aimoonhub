@@ -3,7 +3,6 @@
   "short_name": "Aimoonhub",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#ffffff",
   "description": "AimmonX",
   "icons": [
     {
@@ -37,6 +36,5 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#ffffff",
   "permissions": ["camera"]
 }
